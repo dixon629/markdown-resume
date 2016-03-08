@@ -10,7 +10,7 @@
 }
 
 body {
-    font-family: 'Hoefler Text', Times New Roman, Times, serif;
+    font-family: "Helvetica Neue", Helvetica, Arial, Times New Roman, Times, serif;
     color: #444;
 }
 h1, h2, h3, h4, ul dl dt {
@@ -119,7 +119,7 @@ ul dl {
     dd {
         margin: 0 0 1em;
         padding: 0 2em 0 0;
-        font-size: .8em;
+        font-size: 1.0em;
         line-height: 1.5em;
     }
 }
@@ -170,7 +170,7 @@ dl {
         margin: .15em 0 .5em;
         font-style: bold;
     }
-    
+
 }
 
 
